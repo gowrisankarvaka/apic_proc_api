@@ -1,0 +1,11 @@
+%dw 2.0
+
+type auto_d94007eb_93c7_43ba_ae6d_e1d89b9dbbe8_Input_Payload = {
+  fname: String, 
+  lname: String, 
+  city: String, 
+  street: String, 
+  cid: Number, 
+  _?: Any
+}
+
